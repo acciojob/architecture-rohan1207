@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:#6887
+	
+}
+#col-1{
+	width:200px;
+}
+#col-2{
+	width:600px;
+}
+#col-3{
+	width:200px
+}
+table{
+	border-collapse:collapse;
+}
+tr{
+	border:double;
+}
+td{
+	border:double;
+}
